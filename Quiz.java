@@ -1,5 +1,7 @@
 //Lea Christy Wiranatha's Quiz Submission
 
+//Hi CS2400. My name is Lea WIranatha
+
 import java.util.Scanner;
 
 public class Quiz {
