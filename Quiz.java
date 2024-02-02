@@ -20,9 +20,9 @@ public class Quiz {
 		double Score1 = Score;
 		
 		System.out.printf("The score of %s in %s is %.1f\n" , Coursename, Semester, Score1);
-		//String course = "\"" + Coursename.substring(19,23) + "\"";
+		String course = "\"" + Coursename.substring(19,23) + "\"";
 		
-		//System.out.println(course);
+		System.out.println(course);
 		
 		/*int b = 5;
 		int c = 10;
